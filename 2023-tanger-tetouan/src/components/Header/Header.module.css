@@ -1,0 +1,13 @@
+.navbar {
+
+    background-color: royalblue;
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+    min-height: 2rem;
+    line-height: 2rem;
+}
+a {
+    color:white;
+    text-decoration: none;
+}
